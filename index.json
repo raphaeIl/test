@@ -1,133 +1,108 @@
 {
     "Notices": [
         {
-            "NoticeId": 765,
-            "StartDate": "2024-05-31T13:00:00",
-            "EndDate": "2024-06-30T23:59:59",
+            "NoticeId": 821,
+            "StartDate": "2024-10-31T15:00:00",
+            "EndDate": "2024-11-30T23:59:00",
             "Url": "https://www.google.com/",
             "Title": "生徒誕生日カレンダー",
-            "DisplayOrder": 0
-        },
-        {
-            "NoticeId": 766,
-            "StartDate": "2024-06-01T13:00:00",
-            "EndDate": "2024-06-19T23:59:59",
-            "Url": "https://raphaeil.github.io/",
-            "Title": "総力戦＆大決戦スケジュール",
             "DisplayOrder": 0
         }
     ],
     "Events": [
         {
-            "NoticeId": 761,
-            "StartDate": "2024-05-21T14:00:00",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://raphaeil.github.io/",
+            "NoticeId": 825,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-20T10:59:00",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/825/3134/index367074443.html",
             "Title": "ピックアップ募集",
-            "DisplayOrder": 0
-        },
-        {
-            "NoticeId": 763,
-            "StartDate": "2024-05-21T15:00:00",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://raphaeil.github.io/",
-            "Title": "イベント紹介",
             "DisplayOrder": 0
         }
     ],
-    "Issues": [],
+    "Issues": [
+        {
+            "NoticeId": 820,
+            "StartDate": "2024-10-25T15:00:00",
+            "EndDate": "2024-11-20T10:59:00",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/820/3123/index27044858.html",
+            "Title": "[10月25日(金)]既知の不具合",
+            "DisplayOrder": 0
+        }
+    ],
     "Maintenance": {
-        "StartDate": "2024-05-22T11:00:00",
-        "EndDate": "2024-05-22T19:00:00",
+        "StartDate": "2024-11-06T11:00:00",
+        "EndDate": "2024-11-06T17:00:00",
         "Text": "定期メンテナンス中"
     },
     "Banners": [
         {
-            "BannerId": 446,
-            "StartDate": "2024-05-22T11:18:31",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/446/603/",
+            "BannerId": 542,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-20T10:59:59",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/542/745/",
             "FileName": [
-                "Lobby_Banner_20240522_01_116733478.png"
+                "Lobby_Banner_20241113_01_215368575.png"
             ],
-            "LinkedLobbyBannerId": 571,
+            "LinkedLobbyBannerId": 667,
             "BannerType": 1,
             "BannerDisplayType": 0
         },
         {
-            "BannerId": 447,
-            "StartDate": "2024-05-22T11:20:01",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/447/602/",
+            "BannerId": 543,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-20T10:59:59",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/543/746/",
             "FileName": [
-                "Lobby_Banner_20240522_02_496942739.png"
+                "Lobby_Banner_20241113_02_953087835.png"
             ],
-            "LinkedLobbyBannerId": 572,
+            "LinkedLobbyBannerId": 668,
             "BannerType": 1,
             "BannerDisplayType": 0
         },
         {
-            "BannerId": 448,
-            "StartDate": "2024-05-22T11:20:50",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/448/604/",
+            "BannerId": 544,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-20T10:59:59",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/544/741/",
             "FileName": [
-                "Lobby_Banner_20240522_03_655723245.png"
+                "Lobby_Banner_20241113_03_366004419.png"
             ],
-            "LinkedLobbyBannerId": 573,
+            "LinkedLobbyBannerId": 669,
             "BannerType": 1,
             "BannerDisplayType": 0
         },
         {
-            "BannerId": 449,
-            "StartDate": "2024-05-22T11:21:27",
-            "EndDate": "2024-06-05T10:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/449/605/",
+            "BannerId": 545,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-20T03:59:59",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/545/742/",
             "FileName": [
-                "Lobby_Banner_20240522_04_238332299.png"
-            ],
-            "LinkedLobbyBannerId": 574,
-            "BannerType": 1,
-            "BannerDisplayType": 0
-        },
-        {
-            "BannerId": 450,
-            "StartDate": "2024-05-22T11:24:36",
-            "EndDate": "2024-06-12T10:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/450/606/",
-            "FileName": [
-                "Event_Banner_825_jp_768293653.png"
-            ],
-            "LinkedLobbyBannerId": 10825,
-            "BannerType": 0,
-            "BannerDisplayType": 0
-        },
-        {
-            "BannerId": 451,
-            "StartDate": "2024-05-29T11:00:00",
-            "EndDate": "2024-06-05T03:59:59",
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/451/607/",
-            "FileName": [
-                "Raid_Banner_14_jp(屋内戦)_736130251.png"
+                "EliminateRaid_Banner_2_Jp_186263967.png"
             ],
             "LinkedLobbyBannerId": 0,
-            "BannerType": 4,
+            "BannerType": 27,
+            "BannerDisplayType": 0
+        },
+        {
+            "BannerId": 546,
+            "StartDate": "2024-11-13T11:00:00",
+            "EndDate": "2024-11-27T10:59:59",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/546/743/",
+            "FileName": [
+                "Event_Banner_Mini_70000_Jp_195573662.png"
+            ],
+            "LinkedLobbyBannerId": 70001,
+            "BannerType": 34,
             "BannerDisplayType": 0
         }
     ],
     "ServerStatus": 1,
-    "LatestClientVersion": "1.45.281133",
+    "LatestClientVersion": "1.50.304790",
     "GachaProbabilityDisplay": [
         {
             "GachaProbabilityDisplayId": 62,
             "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/62/index.html",
             "LinkedLobbyBannerId": 2000,
-            "GachaDisplayTag": -1
-        },
-        {
-            "GachaProbabilityDisplayId": 74,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/74/index.html",
-            "LinkedLobbyBannerId": 3000,
             "GachaDisplayTag": -1
         },
         {
@@ -137,33 +112,87 @@
             "GachaDisplayTag": 1
         },
         {
-            "GachaProbabilityDisplayId": 264,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/264/index.html",
-            "LinkedLobbyBannerId": 570,
+            "GachaProbabilityDisplayId": 304,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/304/index.html",
+            "LinkedLobbyBannerId": 3000,
             "GachaDisplayTag": -1
         },
         {
-            "GachaProbabilityDisplayId": 265,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/265/index.html",
-            "LinkedLobbyBannerId": 571,
+            "GachaProbabilityDisplayId": 318,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/318/index.html",
+            "LinkedLobbyBannerId": 1000,
             "GachaDisplayTag": -1
         },
         {
-            "GachaProbabilityDisplayId": 266,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/266/index.html",
-            "LinkedLobbyBannerId": 572,
+            "GachaProbabilityDisplayId": 329,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/329/index.html",
+            "LinkedLobbyBannerId": 1001,
             "GachaDisplayTag": -1
         },
         {
-            "GachaProbabilityDisplayId": 267,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/267/index.html",
-            "LinkedLobbyBannerId": 573,
+            "GachaProbabilityDisplayId": 343,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/343/index.html",
+            "LinkedLobbyBannerId": 1002,
             "GachaDisplayTag": -1
         },
         {
-            "GachaProbabilityDisplayId": 268,
-            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/268/index.html",
-            "LinkedLobbyBannerId": 574,
+            "GachaProbabilityDisplayId": 344,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/344/index.html",
+            "LinkedLobbyBannerId": 660,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 345,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/345/index.html",
+            "LinkedLobbyBannerId": 661,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 346,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/346/index.html",
+            "LinkedLobbyBannerId": 662,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 347,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/347/index.html",
+            "LinkedLobbyBannerId": 663,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 348,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/348/index.html",
+            "LinkedLobbyBannerId": 664,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 349,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/349/index.html",
+            "LinkedLobbyBannerId": 665,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 350,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/350/index.html",
+            "LinkedLobbyBannerId": 666,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 351,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/351/index.html",
+            "LinkedLobbyBannerId": 667,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 352,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/352/index.html",
+            "LinkedLobbyBannerId": 668,
+            "GachaDisplayTag": -1
+        },
+        {
+            "GachaProbabilityDisplayId": 353,
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/353/index.html",
+            "LinkedLobbyBannerId": 669,
             "GachaDisplayTag": -1
         }
     ],
@@ -172,7 +201,7 @@
         "PopupType": 1,
         "StartDate": "2023-12-19T00:00:00+09:00",
         "EndDate": "2023-12-27T11:00:00",
-        "Text": "期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n2024年1月24日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
+        "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
     },
     "ContentLock": [],
     "GachaPeriodDisplay": [
@@ -333,6 +362,51 @@
             "SurveyId": 0,
             "NotifyUrl": null,
             "GotoUrl": "https://balive.page.link/20240420",
+            "DisplayOrder": 0,
+            "PopupOKText": "見に行く"
+        },
+        {
+            "GuidePopupId": 13,
+            "GuidePopupType": 1,
+            "PopupType": 1,
+            "StartDate": "2024-06-23T18:55:00",
+            "EndDate": "2024-06-23T20:45:00",
+            "FileName": "2024_06_Live.png",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/13/21/",
+            "Message": "　　　　　ブルアカらいぶ！ 　　　　　放送中！",
+            "SurveyId": 0,
+            "NotifyUrl": null,
+            "GotoUrl": "https://balive.page.link/20240623",
+            "DisplayOrder": 0,
+            "PopupOKText": "見に行く"
+        },
+        {
+            "GuidePopupId": 14,
+            "GuidePopupType": 1,
+            "PopupType": 1,
+            "StartDate": "2024-07-21T18:55:00",
+            "EndDate": "2024-07-21T21:45:00",
+            "FileName": "Live_20240721.png",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/14/23/",
+            "Message": "　　　　夏のブルアカらいぶ！ 　　　　放送中！",
+            "SurveyId": 0,
+            "NotifyUrl": null,
+            "GotoUrl": "https://balive.page.link/20240721",
+            "DisplayOrder": 0,
+            "PopupOKText": "見に行く"
+        },
+        {
+            "GuidePopupId": 15,
+            "GuidePopupType": 1,
+            "PopupType": 1,
+            "StartDate": "2024-10-20T18:55:00",
+            "EndDate": "2024-10-20T21:15:00",
+            "FileName": "Live_2410.png",
+            "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/15/24/",
+            "Message": "　　　　　ブルアカらいぶ！ 　　　　　放送中！",
+            "SurveyId": 0,
+            "NotifyUrl": null,
+            "GotoUrl": "https://balive.page.link/20241020",
             "DisplayOrder": 0,
             "PopupOKText": "見に行く"
         }
