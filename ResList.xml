@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<ResList version="1.0.13" tag="">
+<ResList version="1.0.15" tag="">
 	<Res filename="Client/WindowsNoEditor/Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll" filesize="153114624" md5="3a1cb9e5814c6a22261824396f79b55d"/>
-	<Res filename="Client/WindowsNoEditor/HT/Binaries/Win64/HTGame.exe" filesize="180734496" md5="7e89d6b6f79b291db63f4a60b7d44c6b"/>
+	<Res filename="Client/WindowsNoEditor/HT/Binaries/Win64/HTGame.exe" filesize="180855328" md5="7338640007b2dbd7629daa7f9a8d333b"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C03.mp4" filesize="55204705" md5="f455a7ce6aa6e96691778f205ef8894d"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_a.mp4" filesize="275783471" md5="850f09f72b336c4b9d837cec9a1bc6ee"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_b.mp4" filesize="279439572" md5="236b46d06503f41f7ecabdc7f974f0e5"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_b.mp4" filesize="279283998" md5="4d121861ba2877a0036f01a79b38a0f2"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_b_1106.mp4" filesize="280506552" md5="cdb3da4b496b25c4119769ef28177ec9"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_01.mp4" filesize="281430826" md5="1fa5966365e29ef2c2693029f31be2d3"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_03.mp4" filesize="167636875" md5="89c6094d486feb4371f7850e40f16595"/>
@@ -13,8 +13,8 @@
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_07.mp4" filesize="162563940" md5="5d40a8100d33f16948ef3112eade0632"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_09.mp4" filesize="313016110" md5="b79b3154474b18b372d610ac06292630"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_11.mp4" filesize="57028566" md5="59db0e8acf618fc6c8928f4f0d195d5a"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U01C02_003.mp4" filesize="92300322" md5="f22fba766ef18644d19726f9976758eb"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_cang01_003.mp4" filesize="307676312" md5="5b710cf886e875276836cb8b9fa76f58"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U01C02_003.mp4" filesize="92643759" md5="8ccb6fc354ce1970bf5439ad5b619167"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_cang01_003.mp4" filesize="307445475" md5="c4ea3ec30b676623ebbe5905f2485e4c"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/q110137.mp4" filesize="92693271" md5="6d25b97d6f089619350da12ff57a1ce3"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/SampleVideo.usm" filesize="81280576" md5="8a4b79707c1406458ee2d2fc0257c287"/>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_Car08.mp4" filesize="63299736" md5="4c63708a1d330d8fbd4be252b25970f7"/>
@@ -59,69 +59,61 @@
 		<Block index="1" start="536870912" size="114634266" md5="0b872526305a51db509f8d708cd7ca26"/>
 	</Res>
 	<Res filename="Client/WindowsNoEditor/HT/Content/Paks/pakchunk4-Windows.pak" filesize="407901335" md5="b662f359a103cc0b48019f96bc363659"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk0-Windows_0_P.pak" filesize="1014747585" md5="c07f8e3c60765bd2711439b5a959db69" blockSize="2">
-		<Block index="0" start="0" size="536870912" md5="5981e068af1192781f088a5a7add87fb"/>
-		<Block index="1" start="536870912" size="477876673" md5="ee65fae20305edd6ba6dbe425025ab53"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk0-Windows_0_P.pak" filesize="1040141553" md5="2897db3333c94f099a55c3a66863d572" blockSize="2" check="1">
+		<Block index="0" start="0" size="536870912" md5="f3d7ce42c925250370e47114863f5329"/>
+		<Block index="1" start="536870912" size="503270641" md5="2ef2237c18f96ff2a37ccb64af803eca"/>
 	</Res>
-	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk1-Windows_0_P.pak" filesize="5680374805" md5="c7ebec884f1e7d022de3d8741aa0d066" blockSize="11">
-		<Block index="0" start="0" size="536870912" md5="dae3ff15aab1d2c1a691eeb9e14fb2ba"/>
-		<Block index="1" start="536870912" size="536870912" md5="c4669945a48ab73160da193f67c432f8"/>
-		<Block index="2" start="1073741824" size="536870912" md5="c1a6a42d7564662f9dd6984a4284927a"/>
-		<Block index="3" start="1610612736" size="536870912" md5="2f25b3d6993745eb21710350ce4852dc"/>
-		<Block index="4" start="2147483648" size="536870912" md5="7385bb71b426dd8ac60b7f162b7da569"/>
-		<Block index="5" start="2684354560" size="536870912" md5="d82cd54b9cc65011055024756392fd89"/>
-		<Block index="6" start="3221225472" size="536870912" md5="73e808450c3a96d1285a8e83eeb3a8ca"/>
-		<Block index="7" start="3758096384" size="536870912" md5="078c2c6bbc9c6222f8373493c0c6e8ca"/>
-		<Block index="8" start="4294967296" size="536870912" md5="41499e0fccc61d93696d64c73857fdbb"/>
-		<Block index="9" start="4831838208" size="536870912" md5="bd4f4415148a6601c2caf1292157377d"/>
-		<Block index="10" start="5368709120" size="311665685" md5="7004d82723c14c526c47f39be63d660b"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk1-Windows_0_P.pak" filesize="5709144517" md5="aebd0637732a469fd0f6b78537724b93" blockSize="11">
+		<Block index="0" start="0" size="536870912" md5="84d9dd731003e00fc1e63a9d0448cb46"/>
+		<Block index="1" start="536870912" size="536870912" md5="1e6514d7e1b7bbb20ee7d9c776a789ac"/>
+		<Block index="2" start="1073741824" size="536870912" md5="72879b85c31835c3af320fcb51a1d0ee"/>
+		<Block index="3" start="1610612736" size="536870912" md5="670162f410011dd8de2b91a719e9848c"/>
+		<Block index="4" start="2147483648" size="536870912" md5="12d678ced3809506912a9c9472774092"/>
+		<Block index="5" start="2684354560" size="536870912" md5="09e7abad21ef4b31f6f76e719a3c85fb"/>
+		<Block index="6" start="3221225472" size="536870912" md5="7aa742153a69f041da87003a5b9d6a22"/>
+		<Block index="7" start="3758096384" size="536870912" md5="ba53e95312ab3a54dd5b0f377503e8b1"/>
+		<Block index="8" start="4294967296" size="536870912" md5="123fcb35bf8b9856176b70012947b7b9"/>
+		<Block index="9" start="4831838208" size="536870912" md5="de2bd7f1a9c7e8a6f994864d50220f1b"/>
+		<Block index="10" start="5368709120" size="340435397" md5="063860c8596113c7297d3a215ad7cc99"/>
 	</Res>
-	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk2-Windows_0_P.pak" filesize="196037501" md5="5ac1b8a5bba2627d8da4267dc903c0db"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk3-Windows_0_P.pak" filesize="367651450" md5="2e946c8907bbae4d1f11d279328239dc"/>
-	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk4-Windows_0_P.pak" filesize="402156810" md5="3b9c7027c497ed8aec500f069cb1ade6"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk2-Windows_0_P.pak" filesize="196035501" md5="1dbb5c545465e6ece6a12db4f272a6e5" check="1"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk3-Windows_0_P.pak" filesize="367867847" md5="13300c8f382dd1d22c3a2b5793ff006f"/>
+	<Res filename="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk4-Windows_0_P.pak" filesize="417511950" md5="a9d2922e0f0c35f27971fa658db11af9"/>
 	<Package>
-		<Pak md5="3136b502af8520fddab58b1a2ed69fc8" filesize="133348808">
-			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk2-Windows_0_P.sig" start="2886" offset="3032" size="12496" md5="75bd845e854ce8c49accc5b382bcd827" check="1"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk3-Windows_0_P.sig" start="15528" offset="15674" size="22968" md5="eaaaa8a71088e85e68773ce4a8b525a9"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk4-Windows_0_P.sig" start="38642" offset="38788" size="25076" md5="512166613fbe1bf7b73d7999887e852c" check="1"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk0-Windows_0_P.sig" start="63864" offset="64010" size="62464" md5="72dddd9b09c3a297e40ba87a4634e10f"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Base.dat" start="126474" offset="126620" size="74148" md5="4e7a8b10e870d8c63bafa8dde613b9cd"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk1-Windows_0_P.sig" start="200768" offset="200914" size="347232" md5="7b7358b5aff7710f8de0cfcb7a646f33"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot16.mp4" start="548146" offset="548301" size="3476763" md5="0ffa1c945fa75265fad1327d768abbb3"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot03.mp4" start="4025064" offset="4025219" size="3606921" md5="8360b3b2f33c6ddf25614538910b4a2c"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rb.mp4" start="7632140" offset="7632291" size="3949025" md5="c566e7e80cfd7acacd3a58a23cee0290"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot02.mp4" start="11581316" offset="11581471" size="4394132" md5="174fd4c67566bab06b625d88fefd9788"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot05.mp4" start="15975603" offset="15975758" size="4563320" md5="969c501e293e4cf25e0622980b8f40b6"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot08.mp4" start="20539078" offset="20539233" size="4954064" md5="fbf3c9fb07795b4717aa4c39bf86f044"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot13.mp4" start="25493297" offset="25493452" size="6524674" md5="ea701cb8eab14a690532311229458caf"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot17.mp4" start="32018126" offset="32018281" size="6561804" md5="ebb1743d3925cc09d1ec03eefe66fd0b"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Ra.mp4" start="38580085" offset="38580236" size="6627754" md5="690faea089d732bb29559e059eb5726d"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.mp4" start="45207990" offset="45208141" size="10253470" md5="3827ca4a64070a4fa8f6b81de6680958"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FadiaUltraSkill.mp4" start="55461611" offset="55461761" size="13253783" md5="efca35a41b70155bb8a2d54305abbc6f"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/HTGameBase.dll" start="68715544" offset="68715676" size="28454816" md5="3313ea1abcc2a52e6c74c0c13fcb606c"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Base64.dll" start="97170492" offset="97170640" size="36178168" md5="6e48c9eb333f825c3dae98648f6e0bec" check="1"/>
+		<Pak md5="053c76afff06daad88e99c480352eec3" filesize="65184910">
+			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk2-Windows_0_P.sig" start="1198" offset="1344" size="12496" md5="aa9db2a29805b432e6df9715a7e6d56f" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk3-Windows_0_P.sig" start="13840" offset="13986" size="22984" md5="a2583f74011b48657832f1b4ee7d8be1" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk4-Windows_0_P.sig" start="36970" offset="37116" size="26012" md5="12c1f47aa340c294ded308444646e148" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk0-Windows_0_P.sig" start="63128" offset="63274" size="64016" md5="1bb33cafb09cce3ad33d677dc7c2dcae" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Base.dat" start="127290" offset="127436" size="74564" md5="9256c3ca7ef5dc052632f0d69db75c46"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/PatchPaks/pakchunk1-Windows_0_P.sig" start="202000" offset="202146" size="348988" md5="011af41140da86b98ee2d0afa84d3507" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/HTGameBase.dll" start="551134" offset="551266" size="28455328" md5="a96be879ecfdc0f352b813dfdae7c015" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Base64.dll" start="29006594" offset="29006742" size="36178168" md5="6f418515bcf8c6e41ce12917c1233b6b" check="1"/>
 		</Pak>
 		<Pak md5="8c10eba47e9f58961bc0b4c0121bf28c" filesize="532901129">
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-BASE.sys" start="128414873" offset="128415019" size="3288760" md5="5d48eca681b31f1e66b0f28f15e34113"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Tray.exe" start="162063567" offset="162063713" size="4237656" md5="b4d2227230c8f7d3b93d53b3c41c25ca"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Service64.exe" start="125139554" offset="125139705" size="3275168" md5="0957deba0ba33acb7b33513ee20cad4a"/>
 			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-BOOT.sys" start="55764668" offset="55764814" size="1076336" md5="49810b19bdaf9271390ac95c9d2d2ec9"/>
 			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Setup64.exe" start="53796430" offset="53796579" size="981848" md5="e66cfe10ab6e09a584f84b04d6140935"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-BASE.sys" start="128414873" offset="128415019" size="3288760" md5="5d48eca681b31f1e66b0f28f15e34113"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Service64.exe" start="125139554" offset="125139705" size="3275168" md5="0957deba0ba33acb7b33513ee20cad4a"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/AntiCheatExpert/ACE-Tray.exe" start="162063567" offset="162063713" size="4237656" md5="b4d2227230c8f7d3b93d53b3c41c25ca"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/NTE-LOGO.mp4" start="48418017" offset="48418147" size="837345" md5="da64381ecd8d6b4b81d7789a55a79b57"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/HOTTA-LOGO.mp4" start="50950585" offset="50950717" size="900335" md5="118f96a0e94c40d4cd244dbf8dec227b"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/NTE-LOGO_overseaEn.mp4" start="51851052" offset="51851192" size="968264" md5="c59ac702fe0b9773f6b7cdb7557f84f1"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/SphereVideo-Emoji.mp4" start="64247181" offset="64247320" size="1384087" md5="4d556924a0398857ecd58cf549171f53"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/NTE-LOGO.mp4" start="48418017" offset="48418147" size="837345" md5="da64381ecd8d6b4b81d7789a55a79b57"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/H264.usm" start="436697388" offset="436697514" size="13390368" md5="4cc1eb43791530f354d04c10136bc420"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/DialogueSequence/FilmOrbit_sagiri_q110073.mp4" start="350753643" offset="350753806" size="11844315" md5="1f0044167d663b903c7a0720d50b9fb0"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/bigworldvido0.mp4" start="496667419" offset="496667564" size="17505534" md5="b1ae79e99e268c9b8a6d47035ecfe798"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/HM_cang01_SD11_2D/SC11_2d.mp4" start="154001311" offset="154001467" size="4012670" md5="760e9ab8e033a9bda2f77d22175c7b89"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Login2K.mp4" start="71443391" offset="71443527" size="1490080" md5="72cee7ff55a97525d1faa9b6accf6801"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/AdlerUltraSkill.mp4" start="450087882" offset="450088032" size="13531845" md5="527b95adc61f9175ff7424db355e4d3e"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUtralSkill.mp4" start="229656016" offset="229656165" size="7638722" md5="ac768b7a1ad66c675a888c47ae1b1e59"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.usm" start="265759040" offset="265759191" size="10038560" md5="d00a354f14f2754f815450652903dd33"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.usm" start="339186068" offset="339186219" size="11567424" md5="a35b10ed64cb5f7be75e27b1b1e33032"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.mp4" start="362598121" offset="362598272" size="11941005" md5="c4a7b31f55f32373f31d1be19f481a4a"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUltralSkill.usm" start="398723821" offset="398723971" size="12360160" md5="52d4f454ae97ef156aa3caae4cfd7610"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/LacrimosaUltraSkill.mp4" start="317130737" offset="317130891" size="11013775" md5="7c9ec0ff24d0274ad7082cbb61466a20"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/NanallyUltraSkill.mp4" start="328144666" offset="328144818" size="11041250" md5="e9a94761414e036870d0d202f5f553dc"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SkiaUtralSkill.mp4" start="386591096" offset="386591245" size="12132576" md5="6d8f47a55b865dc9fe5fd6c1c57432dc"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_a.srt" start="55922" offset="56071" size="864" md5="5bae7f2ad9b335ac1fada066b14ea52f"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_04.srt" start="54437" offset="54584" size="576" md5="7108586a2b73e4998606ce450e333b10"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_07.srt" start="53350" offset="53497" size="142" md5="f7d0a9fdae473f237b7a6744e1c8c3bd"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot07.mp4" start="60215854" offset="60216009" size="1313542" md5="0f2b76f0a197b77817cacd82fced3c18"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot09.mp4" start="150051646" offset="150051801" size="3949510" md5="50e1591de0ccff6e2ccf43bb0f197005"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot14.mp4" start="74432310" offset="74432465" size="1506782" md5="cff0fcf4180ff997c0f36649d02567f3"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot18.mp4" start="131703779" offset="131703934" size="3447605" md5="762f9962d224679d848507c846cdd232"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot19.mp4" start="77653586" offset="77653741" size="1725734" md5="8e4bea8a99e7cabbe874506b986c1667"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Re.mp4" start="463619877" offset="463620028" size="15788093" md5="18aab5648cfa55de9c338f2d6a8b1322"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_09.srt" start="59179" offset="59326" size="1047" md5="efa50a342b67457f830b6ad21375ab62"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_01.mp4" start="115733748" offset="115733899" size="3014195" md5="854f3e7ba845892af3886d74f0733f8e"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot01.mp4" start="158014137" offset="158014292" size="4049275" md5="596e275e789e4229c6abe96ad1c27263"/>
@@ -137,22 +129,19 @@
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot06.mp4" start="208906749" offset="208906904" size="6667616" md5="13207ea7e90c8e8747dcd6b1b4b5768d"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot10.mp4" start="138672997" offset="138673152" size="3737659" md5="83c92340f6e509fe990b49e3b009593a"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot12.mp4" start="142410811" offset="142410966" size="3759048" md5="3adae3c6788503795eedb143146475fb"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_a.srt" start="55922" offset="56071" size="864" md5="5bae7f2ad9b335ac1fada066b14ea52f"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_04.srt" start="54437" offset="54584" size="576" md5="7108586a2b73e4998606ce450e333b10"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U00C00_07.srt" start="53350" offset="53497" size="142" md5="f7d0a9fdae473f237b7a6744e1c8c3bd"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot07.mp4" start="60215854" offset="60216009" size="1313542" md5="0f2b76f0a197b77817cacd82fced3c18"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot09.mp4" start="150051646" offset="150051801" size="3949510" md5="50e1591de0ccff6e2ccf43bb0f197005"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot14.mp4" start="74432310" offset="74432465" size="1506782" md5="cff0fcf4180ff997c0f36649d02567f3"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot18.mp4" start="131703779" offset="131703934" size="3447605" md5="762f9962d224679d848507c846cdd232"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot19.mp4" start="77653586" offset="77653741" size="1725734" md5="8e4bea8a99e7cabbe874506b986c1667"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Re.mp4" start="463619877" offset="463620028" size="15788093" md5="18aab5648cfa55de9c338f2d6a8b1322"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUtralSkill.mp4" start="229656016" offset="229656165" size="7638722" md5="ac768b7a1ad66c675a888c47ae1b1e59"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/AdlerUltraSkill.mp4" start="450087882" offset="450088032" size="13531845" md5="527b95adc61f9175ff7424db355e4d3e"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.usm" start="265759040" offset="265759191" size="10038560" md5="d00a354f14f2754f815450652903dd33"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.usm" start="339186068" offset="339186219" size="11567424" md5="a35b10ed64cb5f7be75e27b1b1e33032"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/MintUltralSkill.usm" start="398723821" offset="398723971" size="12360160" md5="52d4f454ae97ef156aa3caae4cfd7610"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SagiriUltraSkill.mp4" start="362598121" offset="362598272" size="11941005" md5="c4a7b31f55f32373f31d1be19f481a4a"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/LacrimosaUltraSkill.mp4" start="317130737" offset="317130891" size="11013775" md5="7c9ec0ff24d0274ad7082cbb61466a20"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/SkiaUtralSkill.mp4" start="386591096" offset="386591245" size="12132576" md5="6d8f47a55b865dc9fe5fd6c1c57432dc"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/NanallyUltraSkill.mp4" start="328144666" offset="328144818" size="11041250" md5="e9a94761414e036870d0d202f5f553dc"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video06.mp4" start="52819456" offset="52819597" size="976833" md5="143c2a22b8f2ed0b375a750930da1aba"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video01.mp4" start="514173098" offset="514173239" size="18727890" md5="e5abb774f8e4a02e92f87a43d774909a"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video03.mp4" start="69970211" offset="69970352" size="1473039" md5="738e4d0d94ea2bd1a5a094f006074436"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video02.mp4" start="479408121" offset="479408262" size="17259157" md5="5861170f9e3a4ff3a54bf9aad49fe6ac"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/DialogueSequence/FilmOrbit_sagiri_q110073.mp4" start="350753643" offset="350753806" size="11844315" md5="1f0044167d663b903c7a0720d50b9fb0"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/bigworldvido0.mp4" start="496667419" offset="496667564" size="17505534" md5="b1ae79e99e268c9b8a6d47035ecfe798"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/HM_cang01_SD11_2D/SC11_2d.mp4" start="154001311" offset="154001467" size="4012670" md5="760e9ab8e033a9bda2f77d22175c7b89"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video03.mp4" start="69970211" offset="69970352" size="1473039" md5="738e4d0d94ea2bd1a5a094f006074436"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/UI_HD/UI_HD_video01.mp4" start="514173098" offset="514173239" size="18727890" md5="e5abb774f8e4a02e92f87a43d774909a"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/q110137.srt" start="53639" offset="53781" size="189" md5="59d6a26bd02a356e8f036055ad35c30e"/>
 			<Entry name="Client/WindowsNoEditor/Engine/Content/Slate/Cursor/invisible.cur" start="53970" offset="54111" size="326" md5="2eada1ffcee14930f2c53a4d31b95c91"/>
 			<Entry name="Client/WindowsNoEditor/Engine/Content/SlateDebug/Fonts/LastResort.tps" start="56935" offset="57081" size="916" md5="f3fa22ad0b723e24a7f8e731a5a4a0e1"/>
@@ -433,7 +422,21 @@
 			<Entry name="Client/WindowsNoEditor/Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak" start="374539277" offset="374539445" size="12051651" md5="7d2d134aead21d03ae9e6f95694a9db6"/>
 			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/Streamline/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll" start="411084131" offset="411084315" size="12512824" md5="c379e4858f30a398564428ea3cc52bd4"/>
 		</Pak>
+		<Pak md5="9e4549f8b630faf9575a69adc6767e55" filesize="424840850">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/VideoVesta.mp4" start="181067382" offset="181067524" size="45953388" md5="f0c707999d0299fd10c28e258696a5cf"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rd.mp4" start="1637" offset="1788" size="21953930" md5="d7a5524714e62de5bbeb9fca8ea42503"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_temp.mp4" start="47680789" offset="47680931" size="26151236" md5="1a62712ae34cb1fb0d85e2f096142874"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C01.mp4" start="227020912" offset="227021050" size="46249435" md5="b7db2e115dbb6589d1e5b836286f083c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C02.mp4" start="138466455" offset="138466593" size="42600789" md5="53d8fbe1007cb9b08f1ffbf18149f2fd"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/CrashReportClient.exe" start="21955718" offset="21955861" size="25724928" md5="c7be08fda54d33e13b44ea76425f4a42" check="1"/>
+			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/OpenImageDenoise.dll" start="273270485" offset="273270623" size="49771920" md5="4b7ea8d37d71c64b73bab999411aac18"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe" start="323042543" offset="323042691" size="50521128" md5="7c6d890841def8978349f37f8af77242"/>
+			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll" start="373563819" offset="373563994" size="51276856" md5="12627ab9ee39858b6a28039a32d1b7c2"/>
+		</Pak>
 		<Pak md5="3cdd050849f230801786bd7c1026621b" filesize="141790657">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/SC16_FX_v01.mp4" start="558249" offset="558391" size="5295879" md5="0f915d30ad697a50da42671197e7c0cf"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P1.mp4" start="65471134" offset="65471285" size="11685084" md5="51263eb10f2cc046a0d2f534feb1ddf4"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P4.mp4" start="42369318" offset="42369469" size="11501353" md5="b252c54c08a171165d5d68054dd6be5e"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_TJD01_002_b.srt" start="4047" offset="4196" size="1113" md5="26215527430f497eea385b43529748ab"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P3.mp4" start="5854270" offset="5854421" size="5917253" md5="139ac614d9568743024e9bbb9854c001"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/MLPS_Hope.mp4" start="11771674" offset="11771818" size="9559816" md5="bf0b7468e1abfe90f80906912a18479a"/>
@@ -442,20 +445,21 @@
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P5.mp4" start="31294002" offset="31294153" size="11075165" md5="c36fce829a653068b52cebc4def73bf7"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_cang01_003.srt" start="3172" offset="3320" size="727" md5="3826f85c90c54b1dcdab2e7913ec2328"/>
 			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_U01C02_003.srt" start="2835" offset="2983" size="189" md5="59d6a26bd02a356e8f036055ad35c30e"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P1.mp4" start="65471134" offset="65471285" size="11685084" md5="51263eb10f2cc046a0d2f534feb1ddf4"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Story_q110118_P4.mp4" start="42369318" offset="42369469" size="11501353" md5="b252c54c08a171165d5d68054dd6be5e"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Sequence/SC16_FX_v01.mp4" start="558249" offset="558391" size="5295879" md5="0f915d30ad697a50da42671197e7c0cf"/>
 		</Pak>
-		<Pak md5="9e4549f8b630faf9575a69adc6767e55" filesize="424840850">
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C01.mp4" start="227020912" offset="227021050" size="46249435" md5="b7db2e115dbb6589d1e5b836286f083c"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/C02.mp4" start="138466455" offset="138466593" size="42600789" md5="53d8fbe1007cb9b08f1ffbf18149f2fd"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rd.mp4" start="1637" offset="1788" size="21953930" md5="d7a5524714e62de5bbeb9fca8ea42503"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/HM_temp.mp4" start="47680789" offset="47680931" size="26151236" md5="1a62712ae34cb1fb0d85e2f096142874"/>
-			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/Bigworld1/VideoVesta.mp4" start="181067382" offset="181067524" size="45953388" md5="f0c707999d0299fd10c28e258696a5cf"/>
-			<Entry name="Client/WindowsNoEditor/Engine/Binaries/Win64/CrashReportClient.exe" start="21955718" offset="21955861" size="25724928" md5="c7be08fda54d33e13b44ea76425f4a42" check="1"/>
-			<Entry name="Client/WindowsNoEditor/HT/Binaries/Win64/OpenImageDenoise.dll" start="273270485" offset="273270623" size="49771920" md5="4b7ea8d37d71c64b73bab999411aac18"/>
-			<Entry name="Client/WindowsNoEditor/Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe" start="323042543" offset="323042691" size="50521128" md5="7c6d890841def8978349f37f8af77242"/>
-			<Entry name="Client/WindowsNoEditor/Engine/Plugins/Runtime/Nvidia/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll" start="373563819" offset="373563994" size="51276856" md5="12627ab9ee39858b6a28039a32d1b7c2"/>
+		<Pak md5="3136b502af8520fddab58b1a2ed69fc8" filesize="133348808">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot05.mp4" start="15975603" offset="15975758" size="4563320" md5="969c501e293e4cf25e0622980b8f40b6"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Ra.mp4" start="38580085" offset="38580236" size="6627754" md5="690faea089d732bb29559e059eb5726d"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Rb.mp4" start="7632140" offset="7632291" size="3949025" md5="c566e7e80cfd7acacd3a58a23cee0290"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot03.mp4" start="4025064" offset="4025219" size="3606921" md5="8360b3b2f33c6ddf25614538910b4a2c"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot13.mp4" start="25493297" offset="25493452" size="6524674" md5="ea701cb8eab14a690532311229458caf"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot02.mp4" start="11581316" offset="11581471" size="4394132" md5="174fd4c67566bab06b625d88fefd9788"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot17.mp4" start="32018126" offset="32018281" size="6561804" md5="ebb1743d3925cc09d1ec03eefe66fd0b"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot08.mp4" start="20539078" offset="20539233" size="4954064" md5="fbf3c9fb07795b4717aa4c39bf86f044"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Story/Tayge_q110150_Shot16.mp4" start="548146" offset="548301" size="3476763" md5="0ffa1c945fa75265fad1327d768abbb3"/>
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FadiaUltraSkill.mp4" start="55461611" offset="55461761" size="13253783" md5="efca35a41b70155bb8a2d54305abbc6f"/>
+		</Pak>
+		<Pak md5="5e7dee81819403868564c2579721ff27" filesize="75498334">
+			<Entry name="Client/WindowsNoEditor/HT/Content/Movies/FFMpeg/Skill/FemaleUltraSkill.mp4" start="550981" offset="551132" size="10312914" md5="12534689a131f2ee5ffcc975d9dc730d"/>
 		</Pak>
 	</Package>
 </ResList>
