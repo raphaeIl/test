@@ -186,7 +186,7 @@
   "NotificationBeforeMaintenance": {
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "EndDate": "2023-12-27T11:00:00",
+    "EndDate": "2025-12-27T11:00:00",
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
   "ContentLock": [],
@@ -222,12 +222,12 @@
       "PopupType": 1,
       "StartDate": "2023-10-20T19:50:00",
       "EndDate": "2025-10-20T22:00:00",
-      "FileName": "2023_12live.png",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/5/10/",
-      "Message": "夏萝莉是小楠梁！！！",
+      "FileName": "EVAColabo.png",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/4/9/",
+      "Message": "　 　　　　夏萝莉是小楠梁放送中！",
       "SurveyId": 0,
       "NotifyUrl": null,
-      "GotoUrl": "https://discord.gg/URaXJpS5gd",
+      "GotoUrl": "https://balive.page.link/2310",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
     },
