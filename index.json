@@ -399,7 +399,7 @@
     {
       "GuidePopupId": 16,
       "GuidePopupType": 1,
-      "PopupType": 1,
+      "PopupType": 2,
       "StartDate": "2023-12-22T18:55:00",
       "EndDate": "2025-12-22T21:15:00",
       "FileName": "202412Live.png",
