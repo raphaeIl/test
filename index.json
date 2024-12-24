@@ -217,17 +217,17 @@
   },
   "GuidePopup": [
     {
-      "GuidePopupId": 4,
+      "GuidePopupId": 44,
       "GuidePopupType": 1,
       "PopupType": 1,
       "StartDate": "2023-10-20T19:50:00",
       "EndDate": "2025-10-20T22:00:00",
-      "FileName": "EVAColabo.png",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/4/9/",
-      "Message": "　 　　　　夏萝莉是小楠梁放送中！",
+      "FileName": "v3wa96l.png",
+      "Url": "https://i.imgur.com/",
+      "Message": "夏萝莉是小楠梁！！！",
       "SurveyId": 0,
       "NotifyUrl": null,
-      "GotoUrl": "https://balive.page.link/2310",
+      "GotoUrl": "https://discord.gg/URaXJpS5gd",
       "DisplayOrder": 0,
       "PopupOKText": "見に行く"
     },
